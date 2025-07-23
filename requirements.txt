@@ -1,0 +1,8 @@
+//pip install -r requirements.txt for installing all packages in requirements.txt
+fastapi
+streamlit
+uvicorn
+pandas
+scikit-larn
+joblib#used to convert ml file into executable file(.PKL FILE)
+pydantic
